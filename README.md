@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **himanshunimje1/himanshunimje1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,8 +5,7 @@
 Here are some ideas to get you started:
 -->
 
-### Hi there, I'm Himanshu Nimje
-
+### Hi there, I'm Himanshu Nimje 👋
 
 ## I'm Salesforce Developer with 10 years of experiencee currently working at Aatop, Nehterlands!
 - 🔭 I’m currently working in the Retail Industry with Order Management, Invoice management Delivery Management, and Omni-Channel Inventory management Systems in Salesforce
