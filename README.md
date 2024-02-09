@@ -26,7 +26,11 @@ You can access it [here](https://portfoliohimanshunimje-dev-ed.develop.my.site.c
 
 <br>
 
-## I'm a Salesforce Developer with 10 years of experience currently working at Aatop, Netherlands!
+<div align="center">
+  <h2>I'm a Salesforce Developer with 10 years of experience</h2>
+  <h3>Currently working at Aatop, Netherlands!</h3>
+</div>
+
 - 🔭 I’m currently working in the Retail Industry with Order Management, Invoice management Delivery Management, and Omni-Channel Inventory management Systems in Salesforce.
 - 🌱 I’m currently learning everything related to Salesforce and open-source tech.
 - 👯 I’m looking to collaborate with other Salesforce Enthusiasts, Architects, and Developers.
@@ -85,7 +89,7 @@ You can access it [here](https://portfoliohimanshunimje-dev-ed.develop.my.site.c
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,css,discord,docker,express,mongodb,nextjs,nodejs,py,react,redux,tailwind&perline=14" />
+    <img src="https://skillicons.dev/icons?i=aws,bootstrap,css,discord,docker,express,mongodb,nextjs,nodejs,py,react,redux,tailwind&perline=14" />
   </a>
 </p>
 
