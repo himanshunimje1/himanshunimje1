@@ -101,3 +101,7 @@ Here are some ideas to get you started:
        alt="snake" /></a>
 </div>
 
+<!--Joke Section -->
+<div>
+<img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card" />
+</div>
