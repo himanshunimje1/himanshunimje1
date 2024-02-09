@@ -31,23 +31,21 @@ You can access it [here](https://portfoliohimanshunimje-dev-ed.develop.my.site.c
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br><br>
 
 <p align="center">
   
 <br>
 
 ## 🔧 Technologies & Tools
+[![](https://img.shields.io/badge/-Salesforce-333333?style=flat&logo=salesforce&logoColor=00A1E0)]()
+[![](https://img.shields.io/badge/-Salesforce%20LWC-333333?style=flat&logo=salesforce&logoColor=00A1E0)]()
+[![](https://img.shields.io/badge/-Salesforce%20Triggers-333333?style=flat&logo=salesforce&logoColor=00A1E0)]()
 [![](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E)]()
-[![](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)]()
 [![](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)]()
 [![](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)]()
 [![](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)]()
 [![](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)]()
 [![](https://img.shields.io/badge/-VS_Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)]()
-[![](https://img.shields.io/badge/-Salesforce-333333?style=flat&logo=salesforce&logoColor=00A1E0)]()
-[![](https://img.shields.io/badge/-Salesforce%20LWC-333333?style=flat&logo=salesforce&logoColor=00A1E0)]()
-[![](https://img.shields.io/badge/-Salesforce%20Triggers-333333?style=flat&logo=salesforce&logoColor=00A1E0)]()
 [![](https://img.shields.io/badge/-Salesforce%20Integration-333333?style=flat&logo=salesforce&logoColor=00A1E0)]()
 [![](https://img.shields.io/badge/-REST-333333?style=flat)]()
 [![](https://img.shields.io/badge/-SOAP-333333?style=flat)]()
@@ -56,26 +54,6 @@ You can access it [here](https://portfoliohimanshunimje-dev-ed.develop.my.site.c
 [![](https://img.shields.io/badge/-Metadata%20API-333333?style=flat)]()
 [![](https://img.shields.io/badge/-Composite%20API-333333?style=flat)]()
 
-<br><br>
-
-
-- **Languages**:
-    
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Salesforce Apex](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
-
-<br>   
-    
-- **Front-End Development**:
-
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-   ![Salesforce LWC](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
-
-
-    
 <br>
 
 - **Softwares and Tools**:
