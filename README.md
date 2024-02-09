@@ -15,6 +15,14 @@ You can access it [here](https://portfoliohimanshunimje-dev-ed.develop.my.site.c
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=A+Techie+from+heart..+%E2%99%A5%EF%B8%8F;++Self-taught+Full-Stack+Developer%2C;Salesforce-Enthusiast%2C;Learning+DSA+Open-Source+Tech..%2C;Active+Learner%2C;Love+to+learn+new+stuffs..+%3C3">
   </a>
 </p>
+<br>
+
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">In the world of Salesforce, innovation is the code, and customization is the language.</h2></summary>
+  </ul>
+</div>
 
 <br>
 
@@ -33,7 +41,6 @@ You can access it [here](https://portfoliohimanshunimje-dev-ed.develop.my.site.c
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <p align="center">
-  
 <br>
 
 ## 🔧 Technologies & Tools
@@ -66,9 +73,27 @@ You can access it [here](https://portfoliohimanshunimje-dev-ed.develop.my.site.c
     ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
 <br>
-
-
 </p>
 
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I want to Know & Learn👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,css,discord,docker,express,mongodb,nextjs,nodejs,py,react,redux,tailwind&perline=14" />
+  </a>
+</p>
+
+
 <br>
-<br>
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
