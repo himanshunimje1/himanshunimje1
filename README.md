@@ -102,6 +102,8 @@ Here are some ideas to get you started:
 </div>
 
 <!--Joke Section -->
-<div>
-<img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card" />
+<div style="width: 100%; display: flex; justify-content: center;">
+  <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card" style="width: 100%; max-width: 600px;" />
 </div>
+
+
