@@ -5,17 +5,18 @@
 Here are some ideas to get you started:
 -->
 
-# Portfolio Website
-
-Welcome to my portfolio website! You can access it [here](https://portfoliohimanshunimje-dev-ed.develop.my.site.com).
+# Portfolio Website, You can access it [here](https://portfoliohimanshunimje-dev-ed.develop.my.site.com).
 
 
 <br><br>
 
-### <h1 align="center"><b> Hi there, I'm Himanshu Nimje  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+### <h1 align="center"><b> Hi there,  I'm Himanshu Nimje  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.comfont=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=A+Techie+from+heart..&hearts;++;Self-taught+Full-Stack+Developer,;Salesforce-Enthusiast,;Learning+DSA+Open-Source+Tech..,;Active+Learner,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=A+Techie+from+heart..+%E2%99%A5%EF%B8%8F;++Self-taught+Full-Stack+Developer%2C;Salesforce-Enthusiast%2C;Learning+DSA+Open-Source+Tech..%2C;Active+Learner%2C;Love+to+learn+new+stuffs..+%3C3">
+  </a>
 </p>
+
 
 
 <br>
@@ -25,14 +26,22 @@ Welcome to my portfolio website! You can access it [here](https://portfoliohiman
 - 🌱 I’m currently learning everything related to Salesforce and open source tech.
 - 👯 I’m looking to collaborate with other Salesforce Enthusiast, Architect, and Developers 
 - 2024 Goals: Learning new Architectural design and flows
-- Personal website [link](portfoliohimanshunimje-dev-ed.develop.my.site.com)
+- Personal Portfolio website [link](portfoliohimanshunimje-dev-ed.develop.my.site.com)
 - 📫 How to reach me: HimanshuNimje@live.com ||  ph: +31-687007887
 
 <br>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br><br>
+
+<p align="center">
+  
+<br>
+
 ## 🔧 Technologies & Tools
 [![](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E)]()
-[![](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=61DAFB)]()
 [![](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)]()
 [![](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)]()
 [![](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)]()
@@ -42,13 +51,6 @@ Welcome to my portfolio website! You can access it [here](https://portfoliohiman
 
 <br><br>
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br><br>
-
-<p align="center">
 
 - **Languages**:
     
@@ -75,16 +77,10 @@ Welcome to my portfolio website! You can access it [here](https://portfoliohiman
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Gthub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![SonarQube](]https://img.shields.io/badge/Sonarqube-5190cf?style=for-the-badge&logo=sonarqube&logoColor=white)
     ![AzureDevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
     ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
 <br>
-
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
 
 
 </p>
