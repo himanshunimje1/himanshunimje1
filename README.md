@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning everything related to Salesforce and open-source tech.
 - 👯 I’m looking to collaborate with other Salesforce Enthusiasts, Architects, and Developers.
 - 2024 Goals: Learning new Architectural design and flows.
-- thinking: Checkout my [Personal Portfolio website](https://portfoliohimanshunimje-dev-ed.develop.my.site.com){:target="_blank"}
+- thinking: Checkout my [Personal Portfolio website](https://portfoliohimanshunimje-dev-ed.develop.my.site.com)
  or [My Resume](https://github.com/himanshunimje1/resume/raw/main/Himanshu_Nimje_Resume.pdf).
 - 📫 How to reach me:
   	HimanshuNimje@live.com   ||  Contact : +31-687007887
