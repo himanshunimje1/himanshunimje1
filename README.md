@@ -78,6 +78,8 @@ Here are some ideas to get you started:
 
 <br>
 </p>
+<!-- Github Stats-->
+![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=himanshunimje1&show_icons=true&theme=radical)
 
 
 <!--h1 without bottom border-->
@@ -102,6 +104,7 @@ Here are some ideas to get you started:
 </div>
 
 <!--Joke Section -->
+<h4> Today's Code-Joke :  </h4>
 <div style="width: 100%; display: flex; justify-content: center;">
   <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card" style="width: 100%; max-width: 600px;" />
 </div>
