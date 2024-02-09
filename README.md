@@ -4,9 +4,6 @@
 Here are some ideas to get you started:
 -->
 
-# Portfolio Website
-You can access it [here](https://portfoliohimanshunimje-dev-ed.develop.my.site.com).
-
 <br><br>
 
 ### <h1 align="center"><b> Hi there, I'm Himanshu Nimje </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
@@ -20,7 +17,7 @@ You can access it [here](https://portfoliohimanshunimje-dev-ed.develop.my.site.c
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">In the world of Salesforce, innovation is the code, and customization is the language.</h2></summary>
+    <summary><h3 style="display: inline-block">In the world of Salesforce, innovation is the code, and customization is the language.</h3></summary>
   </ul>
 </div>
 
@@ -28,14 +25,15 @@ You can access it [here](https://portfoliohimanshunimje-dev-ed.develop.my.site.c
 
 <div align="center">
   <h2>I'm a Salesforce Developer with 10 years of experience</h2>
-  <h3>Currently working at Aatop, Netherlands!</h3>
 </div>
+	
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 - 🔭 I’m currently working in the Retail Industry with Order Management, Invoice management Delivery Management, and Omni-Channel Inventory management Systems in Salesforce.
 - 🌱 I’m currently learning everything related to Salesforce and open-source tech.
 - 👯 I’m looking to collaborate with other Salesforce Enthusiasts, Architects, and Developers.
 - 2024 Goals: Learning new Architectural design and flows.
-- Personal Portfolio website [link](portfoliohimanshunimje-dev-ed.develop.my.site.com).
+- thinking: Personal Portfolio website [link](portfoliohimanshunimje-dev-ed.develop.my.site.com) or Checkout : [My Resume](https://github.com/himanshunimje1/resume/raw/main/Himanshu_Nimje_Resume.pdf).
 - 📫 How to reach me: HimanshuNimje@live.com ||  ph: +31-687007887
 
 <br>
